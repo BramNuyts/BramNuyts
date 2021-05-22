@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Hotcreation
-- 👀 I’m interested in movies and coding
-- 🌱 I’m currently learning HTML5, CSS and JavaScript
-- 💞️ I’m looking to collaborate on learning Python
+<p align="center">
+  <a href="bramnuyts.github.io/portfolio/"><img src="https://img.shields.io/badge/Website-bramnuyts.github.io%2Fportfolio%2F-orange" alt="banner" href=""></a>
+  <a href="https://github.com/BramNuyts"><img src="https://img.shields.io/badge/GitHub-BramNuyts-lightgrey" alt="GitHub" href="https://github.com/BramNuyts"></a>
+  </br>
+</p>
 
-<!---
-Hotcreation/Hotcreation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hello there, I'm Bram!
+
+Marketing & Logistics graduate working in project administration and planning.
+
+I am learning about Web development and Python.
